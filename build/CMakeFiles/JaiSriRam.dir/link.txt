@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/JaiSriRam.dir/main/main.cpp.o  -o JaiSriRam calc_lib/libcalc_lib.a print_lib/libprint_lib.a 

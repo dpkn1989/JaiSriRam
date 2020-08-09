@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../print_lib/include/print_lib/print_result.h
+
+/home/user/Documents/MyPracticeSession/print_lib/src/print_result.cpp
+iostream
+-
+print_lib/print_result.h
+/home/user/Documents/MyPracticeSession/print_lib/src/print_lib/print_result.h
+

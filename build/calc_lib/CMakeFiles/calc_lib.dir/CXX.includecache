@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Documents/MyPracticeSession/calc_lib/src/add.cpp
+calc_lib/add.h
+/home/user/Documents/MyPracticeSession/calc_lib/src/calc_lib/add.h
+
+/home/user/Documents/MyPracticeSession/calc_lib/src/multiply.cpp
+calc_lib/multiply.h
+/home/user/Documents/MyPracticeSession/calc_lib/src/calc_lib/multiply.h
+
