@@ -12,8 +12,8 @@ case $arg in
 		echo From the blessings of Lord Rama ;;
 	Krishna )
         echo From the blessings of Lord Krishna ;;
-    Hari )
-        echo From the blessings of Lord Hari ;;
+        Govinda )
+        echo From the blessings of Lord Govinda ;;
 esac	
 
 cmake ..
