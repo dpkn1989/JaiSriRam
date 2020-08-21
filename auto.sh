@@ -1,9 +1,9 @@
 #!/bin/bash
 
+rm -rf build/
+mkdir build
 cd build
 echo "Entered build directory"
-
-rm -rf *
 
 arg=$1
 
