@@ -8,4 +8,6 @@
 
 ## Modification happened on Branch1
 
+## Merging technique practice step 2
+
 This repo is for my practice on GiT
