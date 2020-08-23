@@ -11,4 +11,6 @@
 ## Merging technique practice step 2
 
 ## This statement is added for merge conflict example
+
+## This statement is added for pull rebase practice
 This repo is for my practice on GiT
