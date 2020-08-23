@@ -10,4 +10,6 @@
 
 ## Merging technique practice step 2
 
+## Dummy branch is created for merge conflict example
+
 This repo is for my practice on GiT
