@@ -6,4 +6,6 @@ Rebase conflict fix practice edit 1 on master
 
 Rebase conflict fix practice edit 2 on rebaseconflict branch
 
+Rebase conflict fix practice edit 3 on rebaseconflict branch
+
 
