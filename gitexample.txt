@@ -1,3 +1,6 @@
 This file is created for practising GIT concepts
 
 Practice started on REBASE topic on rebasepratice branch
+
+Rebase conflict fix practice edit 1 on master
+
