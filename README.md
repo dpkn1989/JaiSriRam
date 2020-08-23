@@ -11,7 +11,6 @@
 ## Merging technique practice step 2
 
 ## This statement is added for merge conflict example
-
 ## This statement is added for rebase topic example1
 
 ## Modification on rebasepractice branch
