@@ -3,4 +3,6 @@
 
 int Multiply(int x, int y);
 
+float Multiply(float x, float y);
+
 #endif  // MULTIPLY_H_INCLUDED

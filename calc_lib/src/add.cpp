@@ -4,3 +4,8 @@
  {
     return x+y;
  }
+
+ float Add(float x,float y)
+ {
+    return x+y;
+ }
