@@ -12,10 +12,10 @@ set(PRINT_LIB print_lib)
 
 set(EXEC JaiSriRam)
 
-#add_subdirectory(${CALC_LIB})
+add_subdirectory(${CALC_LIB})
 add_subdirectory(${PRINT_LIB})
 
-find_package(calc_lib)
+#find_package(calc_lib)
 
 add_executable(${EXEC} 
                main/main.cpp)
